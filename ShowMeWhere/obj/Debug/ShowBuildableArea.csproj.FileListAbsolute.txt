@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowBuildableArea\Assemblies\ShowBuildableArea.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowBuildableArea\Source\ShowBuildableArea\ShowBuildableArea\obj\Debug\ShowBuildableArea.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowBuildableArea\Source\ShowBuildableArea\ShowBuildableArea\obj\Debug\ShowBuildableArea.dll
