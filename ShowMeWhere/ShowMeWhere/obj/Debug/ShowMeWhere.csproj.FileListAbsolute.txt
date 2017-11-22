@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowBuildableArea\Source\ShowBuildableArea\ShowBuildableArea\obj\Debug\ShowMeWhere.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowBuildableArea\Assemblies\ShowMeWhere.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowBuildableArea\Source\ShowBuildableArea\ShowBuildableArea\obj\Debug\ShowMeWhere.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowMeWhere\Assemblies\ShowMeWhere.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowMeWhere\Source\ShowMeWhere\ShowMeWhere\obj\Debug\ShowMeWhere.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShowMeWhere\Source\ShowMeWhere\ShowMeWhere\obj\Debug\ShowMeWhere.dll
